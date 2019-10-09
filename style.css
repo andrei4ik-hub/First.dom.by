@@ -1,0 +1,28 @@
+ h1,h2,h3,h4 {
+font-family: arial;
+}
+ 
+h1 {
+ font-size:30px;
+ margin-bottom: 1.5em;
+}
+
+table, th, tr {
+	border: 1px solid black;
+
+}
+
+body {
+	background: url(Race_and_ethnicity_2010_Houston.png) ;
+	padding-left:15%; 
+	 padding-right:15%;
+    width:70%;
+     
+}
+.it{
+	font-style:italic;
+}
+
+.img{
+	float: right;
+}
